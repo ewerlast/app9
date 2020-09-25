@@ -1,0 +1,109 @@
+.line {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.sq {
+    width: 50px;
+    height: 50px;
+    background: #000;
+}
+
+/*                  my cod                        */
+
+/* Задача 1 */
+
+.wrapper_dz1{
+    width: 800px;
+    min-height: 200px;
+    background-color: darkcyan;
+    margin:20px auto;
+}
+.wrapper_dz1 h2{
+    text-align: center;
+    font-size: 2em;
+    color:#ffff;
+}
+#dz1{
+    margin-left: 30%;
+    font-size: 1.5em;
+   margin-bottom: 20px;
+}
+
+/* Задача 2 */
+.wrapper_dz2{
+    width: 800px;
+    min-height: 800px;
+    margin:40px auto;
+    background-color: rgb(22, 199, 253);
+    
+}
+.wrapper_dz2 h2{
+    text-align: center;
+    font-size: 2em;
+    color:rgb(182, 37, 69);
+    padding: 5%;
+}
+
+.iline{
+    width: 80%;
+    height: 300px;
+    border:2px solid black;
+    margin:10px auto;
+  
+    
+}
+.square{
+    width: 90px;
+    height: 90px;
+    background-color:black;
+    margin:5px;
+}
+
+/* Задача 3 */
+
+.wrapper_random_text{
+    width: 800px;
+    min-height: 300px;
+    margin:40px auto;
+    background-color: rgb(20, 6, 53);
+}
+.wrapper_random_text h2{
+    text-align: center;
+    font-size: 2em;
+    color:rgb(239, 245, 244);
+    padding: 5%;
+}
+
+#random-text{
+   display: inline-block;
+  margin-top: 10px;
+  margin-left: 30%;
+  font-size: 2.5em;
+  width: 300px;
+    
+}
+
+/* Задача 4 */
+
+.smile_wrapper{
+    width: 800px;
+    min-height: 400px;
+    margin:40px auto;
+    background-color: rgb(223, 110, 17);
+}
+.smile_wrapper h2{
+    text-align: center;
+    font-size: 2em;
+    color:rgb(239, 245, 244);
+    padding: 5%;
+    margin-bottom: 0px;
+}
+
+#smile-text{
+    display: inline-block;
+  margin-top: 5px;
+  margin-left: 30%;
+  font-size: 2.5em;
+  width: 300px;
+}
